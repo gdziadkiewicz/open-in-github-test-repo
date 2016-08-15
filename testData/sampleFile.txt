@@ -1,0 +1,3 @@
+This file is used by the
+integration tests of the extension and
+should be not deleted.
